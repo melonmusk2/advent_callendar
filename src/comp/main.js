@@ -32,10 +32,11 @@ const Main = () => {
         </span></Link>
         <span class="grid__item-shadow"></span>
     </button>
-    <button onClick={nuh_uh} class="grid__item grid__item--moss grid__item--lg grid__item--4">
+    <button  class="grid__item grid__item--moss grid__item--lg grid__item--4">
+    <Link to="/item4">
         <span class="grid__item-door">
             4
-        </span>
+        </span></Link>
         <span class="grid__item-shadow"></span>
     </button>
     <button onClick={nuh_uh} class="grid__item grid__item--5">
