@@ -9,6 +9,7 @@ import Item3 from './comp/item3';
 import Footer from './comp/footer';
 import Item4 from './comp/item4';
 import Item5 from './comp/item5';
+import Item6 from './comp/item6';
 
 
 
@@ -26,6 +27,7 @@ const App = () => {
     <Route path="/item3" element={<  Item3/>} />
     <Route path="/item4" element={<  Item4/>} />
     <Route path="/item5" element={<  Item5/>} />
+    <Route path="/item6" element={<  Item6/>} />
    
   </Routes>
 </Router>
