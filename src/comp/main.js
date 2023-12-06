@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import "../index.scss";
-import { Link, useMatch, useResolvedPath } from "react-router-dom"
+import { Link } from "react-router-dom"
 
 
 
@@ -53,10 +53,11 @@ const Main = () => {
         </span></Link>
         <span class="grid__item-shadow"></span>
     </button>
-    <button onClick={nuh_uh} class="grid__item grid__item--7">
+    <button  class="grid__item grid__item--7">
+    <Link to="/item7">
         <span class="grid__item-door">
             7
-        </span>
+        </span></Link>
         <span class="grid__item-shadow"></span>
     </button>
     <button onClick={nuh_uh} class="grid__item grid__item--8">

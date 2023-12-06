@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import "../index.scss";
 import Main from './main';
 
@@ -9,7 +9,7 @@ const Item1 = () => {
 
   return (
     <><div className='blur'>
-    <Main /></div><div    className='content1 card mewtwo'>
+    <Main /></div><div    className='content1 card item'>
 
     </div>
     

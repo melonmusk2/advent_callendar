@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
+// colors
+$door-moss: #ccddbb;
+$door-sky: #c7d8db;
+$door-sun: #f8e9a0;
+$door-rose: #f7d9c5;
+$door-lemon: #fcf4d108;
+
 // font size
 $font-size-lg: 88px;
 
@@ -221,6 +228,262 @@ body {
   width: 500px;
   height: 300px;
   background-image: url('./assets/ryan_gosling.jpeg');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content7 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+/* change the gifs below when the time has come */
+
+.content8 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content9 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content10 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+.content11 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content12 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content13 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content14 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content15 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content16 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content17 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content18 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content19 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content20 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content21 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content22 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
+  background-size: cover;
+  background-position: center center;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.content23 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background-image: url('./assets/Gorlock.gif');
   background-size: cover;
   background-position: center center;
   border-radius: 10px;
@@ -924,14 +1187,31 @@ button {
 :root {
   --color1: rgb(0, 231, 255);
   --color2: rgb(255, 0, 231);
-  --mewtwo1: #af3009;
-  --mewtwo2: #000000;
-  --mewtwofront: url("./assets/Sam_sulek.webp");
-  --mewtwofront2: url("./assets/lethal_comapany.png");
-  --mewtwofront3: url("./assets/josh_hutcherson.gif");
-  --mewtwofront4: url("./assets/roach.gif");
-  --mewtwofront5: url("./assets/gta6.gif");
-  --mewtwofront6: url("./assets/ryan_gosling.jpeg");
+  --co1: #af3009;
+  --co2: #000000;
+  --front1: url("./assets/Sam_sulek.webp");
+  --front2: url("./assets/lethal_comapany.png");
+  --front3: url("./assets/josh_hutcherson.gif");
+  --front4: url("./assets/roach.gif");
+  --front5: url("./assets/gta6.gif");
+  --front6: url("./assets/ryan_gosling.jpeg");
+  --front7: url("./assets/Gorlock.gif");
+  --front8: url("./assets/roach.gif");
+  --front9: url("./assets/gta6.gif");
+  --front10: url("./assets/ryan_gosling.jpeg");
+  --front11: url("./assets/Gorlock.gif");
+  --front12: url("./assets/roach.gif");
+  --front13: url("./assets/gta6.gif");
+  --front14: url("./assets/ryan_gosling.jpeg");
+  --front15: url("./assets/Gorlock.gif");
+  --front16: url("./assets/ryan_gosling.jpeg");
+  --front17: url("./assets/Gorlock.gif");
+  --front18: url("./assets/roach.gif");
+  --front19: url("./assets/gta6.gif");
+  --front20: url("./assets/ryan_gosling.jpeg");
+  --front21: url("./assets/Gorlock.gif");
+  --front22: url("./assets/gta6.gif");
+  --front23: url("./assets/ryan_gosling.jpeg");
   
   
 }
@@ -981,40 +1261,142 @@ button {
     0 55px 35px -20px rgba(0, 0, 0, 0.5);
 }
 
-.card.mewtwo {
-  --color1: var(--mewtwo1);
-  --color2: var(--mewtwo2);
-  --front: var(--mewtwofront);
+.card.item {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front1);
 }
 
-.card.mewtwo2 {
-  --color1: var(--mewtwo1);
-  --color2: var(--mewtwo2);
-  --front: var(--mewtwofront2);
+.card.item2 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front2);
 }
 
-.card.mewtwo3 {
-  --color1: var(--mewtwo1);
-  --color2: var(--mewtwo2);
-  --front: var(--mewtwofront3);
+.card.item3 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front3);
 }
 
-.card.mewtwo4 {
-  --color1: var(--mewtwo1);
-  --color2: var(--mewtwo2);
-  --front: var(--mewtwofront4);
+.card.item4 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front4);
 }
 
-.card.mewtwo5 {
-  --color1: var(--mewtwo1);
-  --color2: var(--mewtwo2);
-  --front: var(--mewtwofront5);
+.card.item5 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front5);
 }
 
-.card.mewtwo6 {
-  --color1: var(--mewtwo1);
-  --color2: var(--mewtwo2);
-  --front: var(--mewtwofront6);
+.card.item6 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front6);
+}
+
+.card.item7 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front7);
+}
+
+.card.item8 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front8);
+}
+
+.card.item9 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front9);
+}
+
+.card.item10 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front10);
+}
+
+.card.item11 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front11);
+}
+
+.card.item12 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front12);
+}
+
+.card.item13 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front13);
+}
+
+.card.item14 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front14);
+}
+
+.card.item15 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front15);
+}
+
+.card.item16 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front16);
+}
+
+.card.item17 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front17);
+}
+
+.card.item18 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front18);
+}
+
+.card.item19 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front19);
+}
+
+.card.item20 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front20);
+}
+
+.card.item21 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front21);
+}
+
+.card.item22 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front22);
+}
+
+.card.item23 {
+  --color1: var(--co1);
+  --color2: var(--co2);
+  --front: var(--front23);
 }
 
 .card:before,

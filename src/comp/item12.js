@@ -4,12 +4,12 @@ import Main from './main';
 
 
 
-const Item5 = () => {
+const Item12 = () => {
   
 
   return (
     <><div className='blur'>
-    <Main /></div><div className='content5 card item5'>
+    <Main /></div><div className='content12 card item12'>
 
     </div>
     
@@ -18,4 +18,4 @@ const Item5 = () => {
   );
 };
 
-export default Item5;
+export default Item12;
