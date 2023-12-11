@@ -75,7 +75,7 @@ const Main = () => {
         <span class="grid__item-shadow"></span>
     </button>
     <button  class="grid__item grid__item--10">
-       <Link to="/item10">
+       <Link to="/item11">
         <span class="grid__item-door">
             10
         </span></Link>
