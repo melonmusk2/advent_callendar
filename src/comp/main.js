@@ -95,10 +95,11 @@ const Main = () => {
         </span></Link>
         <span class="grid__item-shadow"></span>
     </button>
-    <button onClick={nuh_uh} class="grid__item grid__item--moss grid__item--lg grid__item--13">
+    <button class="grid__item grid__item--moss grid__item--lg grid__item--13">
+       <Link to="/item13">
         <span class="grid__item-door">
             13
-        </span>
+        </span></Link>
         <span class="grid__item-shadow"></span>
     </button>
     <button onClick={nuh_uh} class="grid__item grid__item--14">
