@@ -172,10 +172,11 @@ const Main = () => {
         </span></Link>
         <span class="grid__item-shadow"></span>
     </button>
-    <button onClick={nuh_uh} class="grid__item grid__item--ultimate grid__item--lg grid__item--24">
+    <button class="grid__item grid__item--ultimate grid__item--lg grid__item--24">
+       <a href="https://dino-game-zeta.vercel.app/">
         <span class="grid__item-door">
             24
-        </span>
+        </span></a>
         <span class="grid__item-shadow"></span>
     </button>
 </div>
