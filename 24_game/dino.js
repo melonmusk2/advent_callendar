@@ -20,9 +20,11 @@ export function setupDino() {
   currentFrameTime = 0
   yVelocity = 0
   setCustomProperty(dinoElem, "--bottom", 0)
-  document.removeEventListener("keydown", onJump)
-  document.addEventListener("keydown", onJump)
-  document.addEventListener("touchstart", onJump)
+  document.removeEventListener("keydown", onJump);
+  document.removeEventListener("touchstart", onJump);
+
+  document.addEventListener("keydown", onJump);
+  document.addEventListener("touchstart", onJump);
 }
 
 export function updateDino(delta, speedScale) {
